@@ -1,6 +1,8 @@
-/*Código que lee un sensor de humedad y temperatura y envia las lecturas sobre wifi a un socket TCP
-  además realiza consultas NTP periódicas para añadir un timestamp a las lecturas del sensor
+/*
+  Código que lee un sensor de humedad y temperatura DHT11 y envia las lecturas sobre wifi a un socket TCP
+  además realiza consultas NTP periódicas para añadir un timestamp a las lecturas del sensor, añade actualizaciones OTA
   placa de desarrollo Node-MCU V1.0 (ESP-12E)
+  sensor de humedad y temperatura DHT11
 */
 
 
