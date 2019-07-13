@@ -15,8 +15,8 @@
 int pin = D2;
 unsigned long previousMillis = 0;
 unsigned long interval = 60000;
-const char* ssid     = "MIWIFI_UKka";      // SSID
-const char* password = "zhUsbRnKzDZK";      // Password
+const char* ssid     = "XXXXXXXXX";      // SSID
+const char* password = "XXXXXXXXX";      // Password
 const char* host = "192.168.1.128";  // IP serveur - Server IP
 const int   port = 5045;            // Port serveur - Server Port
 String cmd = "";
